@@ -1,0 +1,15 @@
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\bin\Debug\net6.0\Aula 3-19.exe
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\bin\Debug\net6.0\Aula 3-19.deps.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\bin\Debug\net6.0\Aula 3-19.runtimeconfig.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\bin\Debug\net6.0\Aula 3-19.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\bin\Debug\net6.0\Aula 3-19.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.AssemblyInfo.cs
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\refint\Aula 3-19.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\Aula 3-19.genruntimeconfig.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-19\Aula 3-19\obj\Debug\net6.0\ref\Aula 3-19.dll
