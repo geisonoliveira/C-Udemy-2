@@ -1,0 +1,15 @@
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\bin\Debug\net6.0\Aula 3-21 Operadores aritméticos.exe
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\bin\Debug\net6.0\Aula 3-21 Operadores aritméticos.deps.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\bin\Debug\net6.0\Aula 3-21 Operadores aritméticos.runtimeconfig.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\bin\Debug\net6.0\Aula 3-21 Operadores aritméticos.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\bin\Debug\net6.0\Aula 3-21 Operadores aritméticos.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.AssemblyInfo.cs
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\refint\Aula 3-21 Operadores aritméticos.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\Aula 3-21 Operadores aritméticos.genruntimeconfig.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-21 Operadores aritméticos\Aula 3-21 Operadores aritméticos\obj\Debug\net6.0\ref\Aula 3-21 Operadores aritméticos.dll
