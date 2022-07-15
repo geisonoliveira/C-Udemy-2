@@ -1,0 +1,15 @@
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\bin\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.exe
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\bin\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.deps.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\bin\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.runtimeconfig.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\bin\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\bin\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.AssemblyInfo.cs
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\refint\Aula 3-20 - Conversão implícita e casting.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\Aula 3-20 - Conversão implícita e casting.genruntimeconfig.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-20 - Conversão implícita e casting\Aula 3-20 - Conversão implícita e casting\obj\Debug\net6.0\ref\Aula 3-20 - Conversão implícita e casting.dll
