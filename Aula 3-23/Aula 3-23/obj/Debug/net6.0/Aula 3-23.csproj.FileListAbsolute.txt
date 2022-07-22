@@ -1,0 +1,15 @@
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\bin\Debug\net6.0\Aula 3-23.exe
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\bin\Debug\net6.0\Aula 3-23.deps.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\bin\Debug\net6.0\Aula 3-23.runtimeconfig.json
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\bin\Debug\net6.0\Aula 3-23.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\bin\Debug\net6.0\Aula 3-23.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.csproj.AssemblyReference.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.AssemblyInfoInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.AssemblyInfo.cs
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.csproj.CoreCompileInputs.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\refint\Aula 3-23.dll
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.pdb
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\Aula 3-23.genruntimeconfig.cache
+C:\Users\Geison\Documents\C# Udemy\Aula 3-23\Aula 3-23\obj\Debug\net6.0\ref\Aula 3-23.dll
